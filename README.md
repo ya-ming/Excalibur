@@ -1,6 +1,8 @@
 # Excalibur
 
-Excalibur is just an "inspirational" name I picked at random for this solution, which is a sort of "incubation chamber" for some libraries that I plan to develop towards making my own web server framework mostly from scratch.
+The first commit was copied from the authur - https://github.com/rhymu8354/Excalibur
+
+Will follow his videos on this project.
 
 ## Usage
 
