@@ -2,7 +2,7 @@
 
 The first commit was copied from the authur - https://github.com/rhymu8354/Excalibur
 
-Will follow his videos on this project.
+Will follow his videos on implementing this project.
 
 ## Usage
 
