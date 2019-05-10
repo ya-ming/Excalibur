@@ -2,6 +2,11 @@
 <workspace>
     <repositories>
         <repository
+            path="MessageHeader"
+            url="https://github.com/ya-ming/MessageHeaders.git"
+            branch="master"
+            />
+        <repository
             path="Uri"
             url="https://github.com/ya-ming/Uri.git"
             branch="master"
