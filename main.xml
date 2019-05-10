@@ -2,7 +2,7 @@
 <workspace>
     <repositories>
         <repository
-            path="MessageHeader"
+            path="MessageHeaders"
             url="https://github.com/ya-ming/MessageHeaders.git"
             branch="master"
             />
