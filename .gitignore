@@ -1,6 +1,8 @@
 .vscode/ipch
 /build/
+/documents/
 
 /Uri/
 /MessageHeaders/
 /googletest/
+/Utf8/
