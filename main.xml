@@ -7,6 +7,11 @@
             branch="master"
             />
         <repository
+            path="SystemAbstractions"
+            url="https://github.com/ya-ming/SystemAbstractions.git"
+            branch="master"
+            />
+        <repository
             path="Uri"
             url="https://github.com/ya-ming/Uri.git"
             branch="master"

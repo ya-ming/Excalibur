@@ -78,6 +78,7 @@ if(ParentDirectory STREQUAL "")
     add_subdirectory(MessageHeaders)
     add_subdirectory(Uri)
     add_subdirectory(Utf8)
+    add_subdirectory(SystemAbstractions)
 endif(ParentDirectory STREQUAL "")
 
 set(CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_CURRENT_BINARY_DIR})
