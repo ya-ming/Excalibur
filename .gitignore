@@ -2,6 +2,7 @@
 /build/
 /documents/
 
+/Http/
 /Uri/
 /MessageHeaders/
 /googletest/
